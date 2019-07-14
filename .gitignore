@@ -1,0 +1,5 @@
+node_modules
+coverage
+dist
+tetreact/yarn-error.log
+.vscode/settings.json
